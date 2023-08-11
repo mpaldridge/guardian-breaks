@@ -23,16 +23,6 @@
             --source-text-decoration-thickness: 2px;
         }
         
-        .dcr-1kas69x {
-            margin-bottom: 16px;
-            word-break: break-word;
-            font-family: GuardianTextEgyptian, Guardian Text Egyptian Web, Georgia, serif;
-            font-size: 1.0625rem;
-            line-height: 1.5;
-            font-weight: 400;
-            --source-text-decoration-thickness: 2px;
-        }
-        
         .dcr-rysp4a  {
             margin-bottom: 16px;
             word-break: break-word;
