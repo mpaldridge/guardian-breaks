@@ -18,7 +18,7 @@
             line-height: 1.5;
         }
         
-        .dcr-rysp4a  {
+        .dcr-rysp4a {
             margin-bottom: 16px;
             line-height: 1.5;
         }
@@ -46,7 +46,42 @@
         .dcr-kqfskd {
           margin-bottom: 16px;
           line-height: 1.5;
-    }
+        }
+        
+        .dcr-w4gb5w {
+          margin-bottom: 16px;
+          line-height: 1.5;
+        }
+        
+        .dcr-1o4ui9s {
+          margin-bottom: 16px;
+          line-height: 1.5;
+        }
+        
+        .dcr-16cx0op {
+          margin-bottom: 16px;
+          line-height: 1.5;
+        }
+        
+        .dcr-1lpi6p1 {
+          margin-bottom: 16px;
+          line-height: 1.5;
+        }
+        
+        .dcr-epamsi {
+          margin-bottom: 16px;
+          line-height: 1.5;
+        }
+        
+        .dcr-vq85ex {
+          margin-bottom: 16px;
+          line-height: 1.5;
+        }
+        
+        .dcr-1cmbxtt {
+          margin-bottom: 16px;
+          line-height: 1.5;
+        }
     `;
     document.head.appendChild(styleElement);
 })();
